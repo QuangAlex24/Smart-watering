@@ -16,7 +16,7 @@ Gửi thông báo cho người dùng qua ứng dụng
 
 Hệ thống giúp người dùng chăm sóc cây trồng hiệu quả, giảm công sức và tăng năng suất.
 
-🎯 Mục tiêu dự án
+# 🎯 Mục tiêu dự án
 
 Tự động hóa quá trình tưới cây dựa trên độ ẩm đất
 
@@ -55,7 +55,7 @@ Gửi thông báo cho người dùng qua app
 
 Hiển thị cảnh báo trên Node-RED
 
-🖥️ Giao diện Node-RED
+# 🖥️ Giao diện Node-RED
 
 Hiển thị:
 
@@ -73,7 +73,7 @@ Chuyển chế độ Auto / Manual
 
 Điều khiển servo xoay camera
 
-🔧 Phần cứng sử dụng
+# 🔧 Phần cứng sử dụng
 
 ESP32
 
@@ -91,7 +91,7 @@ Motor bơm nước
 
 Màn hình OLED (tùy chọn)
 
-💻 Phần mềm & Công nghệ
+# 💻 Phần mềm & Công nghệ
 
 Arduino IDE (lập trình ESP32)
 
