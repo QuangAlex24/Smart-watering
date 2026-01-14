@@ -1,5 +1,5 @@
 🌱 Smart-watering Sử Dụng ESP32 & ESP32-CAM
-📌 Giới thiệu
+##📌 Giới thiệu
 
 Dự án Chậu cây thông minh ứng dụng IoT và Computer Vision, sử dụng ESP32 và ESP32-CAM để:
 
