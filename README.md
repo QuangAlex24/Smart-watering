@@ -28,7 +28,7 @@ Cho phép điều khiển thủ công hoặc tự động qua giao diện
 
 Hiển thị và quản lý dữ liệu thời gian thực trên Node-RED
 
-🧩 Chức năng chính
+# 🧩 Chức năng chính
 🌿 Giám sát & tưới cây
 
 Đọc dữ liệu từ cảm biến độ ẩm đất
