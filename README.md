@@ -105,7 +105,7 @@ MQTT / HTTP REST API
 
 WiFi
 
-# Hướng giải quyết vấn đề
+## Hướng giải quyết vấn đề
 Vấn đề thiếu thông tin về cây trồng
 → Nghiên cứu đặc điểm sinh trưởng của từng loại cây (độ ẩm đất, nhiệt độ, ánh sáng, sâu bệnh thường gặp) và xây dựng ngưỡng phù hợp để hệ thống tự động ra quyết định tưới nước.
 
