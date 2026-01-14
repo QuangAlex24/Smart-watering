@@ -104,3 +104,13 @@ Node-RED (dashboard & điều khiển)
 MQTT / HTTP REST API
 
 WiFi
+
+# Hướng giải quyết vấn đề
+Vấn đề thiếu thông tin về cây trồng
+→ Nghiên cứu đặc điểm sinh trưởng của từng loại cây (độ ẩm đất, nhiệt độ, ánh sáng, sâu bệnh thường gặp) và xây dựng ngưỡng phù hợp để hệ thống tự động ra quyết định tưới nước.
+
+Vấn đề tưới nước không đồng đều, lãng phí nước
+→ Tích hợp cảm biến độ ẩm đất để hệ thống tự động kích hoạt bơm nước khi độ ẩm dưới ngưỡng cài đặt, đồng thời cho phép người dùng điều khiển thủ công qua giao diện App hoặc Node-RED.
+
+Vấn đề giám sát và quản lý dữ liệu khó khăn
+→ Sử dụng Node-RED làm giao diện trực quan để hiển thị các thông số như độ ẩm đất, nhiệt độ, trạng thái bơm, đèn và camera, giúp người dùng dễ dàng theo dõi và điều chỉnh.
