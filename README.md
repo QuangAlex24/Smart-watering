@@ -43,7 +43,7 @@ Cài đặt ngưỡng độ ẩm (%)
 
 Điều khiển tưới thủ công
 
-📷 Phát hiện sâu bệnh
+# 📷 Phát hiện sâu bệnh
 
 ESP32-CAM chụp ảnh cây trồng
 
