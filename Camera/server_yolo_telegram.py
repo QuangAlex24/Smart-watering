@@ -12,7 +12,7 @@ import telebot
 BOT_TOKEN = "7718061334:AAEZAUD92cpOKpbckyAyhcAj1bcCFilQ4uk"
 CHAT_ID = "6896847753"
 
-MODEL_PATH = "runs/detect/train/weights/best.pt"
+MODEL_PATH = "best.pt"
 SAVE_PATH = "detections"
 CONF_THRESHOLD = 0.4
 MAX_IMAGES = 10   # Giới hạn 10 ảnh
